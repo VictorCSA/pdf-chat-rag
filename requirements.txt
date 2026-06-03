@@ -1,7 +1,9 @@
 chainlit
 langchain
+langchain-core
 langchain-groq
 langchain-community
+langchain-text-splitters
 faiss-cpu
 pymupdf
 python-dotenv
